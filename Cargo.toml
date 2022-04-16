@@ -1,0 +1,16 @@
+[package]
+name = "rustroll"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dialoguer = "0.10.0"
+directories = "4.0.1"
+indicatif = "0.16.2"
+rand = "0.8.5"
+serde = { version = "1.0.136", features = ["derive"] }
+simple_config_parser = "1.0.0"
+toml = "0.5.9"
+urlshortener = "3.0.0"
