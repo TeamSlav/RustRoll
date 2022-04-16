@@ -14,5 +14,5 @@ Run these commands in the terminal
 ```
 git clone https://github.com/TeamSlav/RustRoll
 cd RustRoll
-rustc src/main.rs
+cargo run
 ```
