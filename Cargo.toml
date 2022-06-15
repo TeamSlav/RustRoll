@@ -11,6 +11,7 @@ directories = "4.0.1"
 indicatif = "0.16.2"
 rand = "0.8.5"
 serde = { version = "1.0.136", features = ["derive"] }
+shorten-url = "1.0.0"
 simple_config_parser = "1.0.0"
 toml = "0.5.9"
 urlshortener = "3.0.0"
